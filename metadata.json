@@ -1,0 +1,10 @@
+{
+  "name": "CrewLink Mobile Companion",
+  "description": "A smart background proximity voice-chat companion app for mobile gamers (Among Us, Roblox, PUBG). Features low-latency spatial audio simulation, alive/dead voice filters, automatic game detection, and intelligent screenshot troubleshooting guides backed by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
